@@ -1,0 +1,8 @@
+C:\Users\ucenik\Documents\KlaseIObjekti03PonavljanjeAndrej\bin\Debug\KlaseIObjekti03PonavljanjeAndrej.exe.config
+C:\Users\ucenik\Documents\KlaseIObjekti03PonavljanjeAndrej\bin\Debug\KlaseIObjekti03PonavljanjeAndrej.exe
+C:\Users\ucenik\Documents\KlaseIObjekti03PonavljanjeAndrej\bin\Debug\KlaseIObjekti03PonavljanjeAndrej.pdb
+C:\Users\ucenik\Documents\KlaseIObjekti03PonavljanjeAndrej\obj\Debug\KlaseIObjekti03PonavljanjeAndrej.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\KlaseIObjekti03PonavljanjeAndrej\obj\Debug\KlaseIObjekti03PonavljanjeAndrej.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\KlaseIObjekti03PonavljanjeAndrej\obj\Debug\KlaseIObjekti03PonavljanjeAndrej.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\KlaseIObjekti03PonavljanjeAndrej\obj\Debug\KlaseIObjekti03PonavljanjeAndrej.exe
+C:\Users\ucenik\Documents\KlaseIObjekti03PonavljanjeAndrej\obj\Debug\KlaseIObjekti03PonavljanjeAndrej.pdb
